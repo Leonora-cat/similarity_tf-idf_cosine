@@ -4,6 +4,8 @@ Using tf-tdf and cosine-similarity to calculate the similarity between 2 texts
 ## **Files and Purpose of this project**
 ### input files
 11 files of different types of work orders (A)
+
+
 2 files of work orders (B)
 ### purpose
 for each work order in B, figure out which type in A this work order belongs to
